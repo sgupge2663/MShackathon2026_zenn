@@ -19,3 +19,6 @@ articles/
 
 - こうき（記事オーナー）
 - りょーすけ（レビュー・編集）
+
+## zenn記事の記法
+https://zenn.dev/zenn/articles/markdown-guide
