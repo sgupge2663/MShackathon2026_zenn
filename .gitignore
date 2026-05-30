@@ -1,2 +1,8 @@
 node_modules/
 .DS_Store
+
+# ローカル分析メモ（git追跡しない）
+git-history-analysis.md
+Zenn記事執筆資料-現行版.md
+todo.md
+logo.png
