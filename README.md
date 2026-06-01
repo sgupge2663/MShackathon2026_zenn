@@ -1,6 +1,9 @@
 # MShackathon2026 Zenn記事
 
 MSハッカソン2026「AI木曜会」チームのZenn記事管理リポジトリ。
+このブランチは情報を詰め込んでいるver
+チームMTGで情報量が多すぎると判断されたもの。
+KokiHayashida作成
 
 ## 構成
 
